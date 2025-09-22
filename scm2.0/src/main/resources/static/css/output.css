@@ -1,0 +1,25 @@
+/*! tailwindcss v4.1.11 | MIT License | https://tailwindcss.com */
+.static {
+  position: static;
+}
+.container {
+  width: 100%;
+}
+.mx-auto {
+  margin-inline: auto;
+}
+.flex {
+  display: flex;
+}
+.w-1\/2 {
+  width: calc(1/2 * 100%);
+}
+.flex-col {
+  flex-direction: column;
+}
+.items-center {
+  align-items: center;
+}
+.justify-center {
+  justify-content: center;
+}
